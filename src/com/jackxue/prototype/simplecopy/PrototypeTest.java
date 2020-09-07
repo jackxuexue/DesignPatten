@@ -1,4 +1,4 @@
-package com.jackxue.prototype;
+package com.jackxue.prototype.simplecopy;
 
 public class PrototypeTest {
     public static void main(String[] args) throws CloneNotSupportedException {
